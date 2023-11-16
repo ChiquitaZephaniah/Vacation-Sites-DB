@@ -1,0 +1,10 @@
+1,Uluwatu, Indonesia, 983, Bali, 57683
+2,Eiffel Tower, France, 7803, Paris, 35762
+3,Colosseum, Italy, 623, Rome, 19374
+4,Marina Bay Sands, Singapore, 453, Singapore, 26543
+5,Walt Disney World, United States, 2348, Orlando, 98354
+6,Universal Studios, Japan, 2734, Tokyo, 374622
+7,Labuan Bajo, Indonesia, 371, Flores, 14533
+8,Phi Phi Island, Thailand, 188, Mueang Krabi, 16234
+9,Twin Tower, Malaysia, 1029, Kuala Lumpur, 27463
+10,Grand Canyon National Park, United States, 387, Arizona, 12311
